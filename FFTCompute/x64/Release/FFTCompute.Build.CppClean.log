@@ -1,0 +1,14 @@
+x64\release\fftsinewave.cu.obj
+x64\release\kernel.cu.obj
+d:\cuda\fftcompute\x64\release\fftcompute.exe
+d:\cuda\fftcompute\x64\release\fftcompute.pdb
+d:\cuda\fftcompute\fftcompute\x64\release\fftsinewave.cu.cache
+d:\cuda\fftcompute\fftcompute\x64\release\kernel.cu.cache
+d:\cuda\fftcompute\fftcompute\x64\release\fftsinewave.cu.obj
+d:\cuda\fftcompute\fftcompute\x64\release\kernel.cu.obj
+d:\cuda\fftcompute\fftcompute\x64\release\vc141.pdb
+d:\cuda\fftcompute\fftcompute\x64\release\fftcompute.tlog\cudacompile.read.1u.tlog
+d:\cuda\fftcompute\fftcompute\x64\release\fftcompute.tlog\cudacompile.write.1u.tlog
+d:\cuda\fftcompute\fftcompute\x64\release\fftcompute.tlog\link.command.1.tlog
+d:\cuda\fftcompute\fftcompute\x64\release\fftcompute.tlog\link.read.1.tlog
+d:\cuda\fftcompute\fftcompute\x64\release\fftcompute.tlog\link.write.1.tlog
